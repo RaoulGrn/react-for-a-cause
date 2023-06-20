@@ -28,4 +28,4 @@ The form will be hidden.
 A message will be displayed, conveying gratitude for contacting the NGO and informing the user that a colleague will respond soon.
 The form's input values will be logged as an object in the browser's console, allowing easy access to the submitted information.
 
-
+HOW TO RUN: Open project in your favorite editor. Run npm install. Run npm start.
