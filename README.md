@@ -50,3 +50,10 @@ The form's input values will be logged as an object in the browser's console, al
 Open project in your favorite editor.
 Run npm install.
 Run npm run dev.
+
+
+## DEMO PHOTOS
+
+![react4cause1](https://github.com/RaoulGrn/react-for-a-cause/assets/108396853/ee9304c6-9c99-4c0a-97c2-98c53bbfba3d)
+![react4cause3](https://github.com/RaoulGrn/react-for-a-cause/assets/108396853/fcadfad3-bc9d-4486-9fbb-84ce32e1735b)
+![react4cause2](https://github.com/RaoulGrn/react-for-a-cause/assets/108396853/1e7c6b2f-24de-444b-9218-678139c581c6)
