@@ -47,9 +47,9 @@ The form's input values will be logged as an object in the browser's console, al
 
 ## HOW TO RUN:
 
-Open project in your favorite editor.
-Run npm install.
-Run npm run dev.
+- Open project in your favorite editor.
+- Run "npm install" in terminal.
+- Run "npm run dev" in terminal.
 
 
 ## DEMO PHOTOS
